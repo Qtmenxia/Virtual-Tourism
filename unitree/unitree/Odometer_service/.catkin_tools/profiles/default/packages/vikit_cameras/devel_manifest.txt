@@ -1,0 +1,6 @@
+rpg_svo_pro_open/vikit/vikit_cameras
+/home/unitree/unitree/Odometer_service/devel/.private/vikit_cameras/cmake.lock /home/unitree/unitree/Odometer_service/devel/./cmake.lock
+/home/unitree/unitree/Odometer_service/devel/.private/vikit_cameras/lib/libvikit_cameras.so /home/unitree/unitree/Odometer_service/devel/lib/libvikit_cameras.so
+/home/unitree/unitree/Odometer_service/devel/.private/vikit_cameras/lib/pkgconfig/vikit_cameras.pc /home/unitree/unitree/Odometer_service/devel/lib/pkgconfig/vikit_cameras.pc
+/home/unitree/unitree/Odometer_service/devel/.private/vikit_cameras/share/vikit_cameras/cmake/vikit_camerasConfig-version.cmake /home/unitree/unitree/Odometer_service/devel/share/vikit_cameras/cmake/vikit_camerasConfig-version.cmake
+/home/unitree/unitree/Odometer_service/devel/.private/vikit_cameras/share/vikit_cameras/cmake/vikit_camerasConfig.cmake /home/unitree/unitree/Odometer_service/devel/share/vikit_cameras/cmake/vikit_camerasConfig.cmake

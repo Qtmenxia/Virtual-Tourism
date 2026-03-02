@@ -1,0 +1,25 @@
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/libbow.so
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/libsvo_online_loopclosing.so
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/svo_online_loopclosing/createvoc
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/pkgconfig/svo_online_loopclosing.pc
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/svo_online_loopclosing/cmake/svo_online_loopclosingConfig-version.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/svo_online_loopclosing/cmake/svo_online_loopclosingConfig.cmake
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_online_loopclosing/cmake.lock, /home/unitree/unitree/unitree_vo/devel/./cmake.lock)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_online_loopclosing/lib/libbow.so, /home/unitree/unitree/unitree_vo/devel/lib/libbow.so)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_online_loopclosing/lib/libsvo_online_loopclosing.so, /home/unitree/unitree/unitree_vo/devel/lib/libsvo_online_loopclosing.so)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_online_loopclosing/lib/svo_online_loopclosing/createvoc, /home/unitree/unitree/unitree_vo/devel/lib/svo_online_loopclosing/createvoc)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_online_loopclosing/lib/pkgconfig/svo_online_loopclosing.pc, /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/svo_online_loopclosing.pc)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_online_loopclosing/share/svo_online_loopclosing/cmake/svo_online_loopclosingConfig-version.cmake, /home/unitree/unitree/unitree_vo/devel/share/svo_online_loopclosing/cmake/svo_online_loopclosingConfig-version.cmake)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_online_loopclosing/share/svo_online_loopclosing/cmake/svo_online_loopclosingConfig.cmake, /home/unitree/unitree/unitree_vo/devel/share/svo_online_loopclosing/cmake/svo_online_loopclosingConfig.cmake)
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/libbow.so
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/libsvo_online_loopclosing.so
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/svo_online_loopclosing/createvoc
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/svo_online_loopclosing.pc
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/svo_online_loopclosing/cmake/svo_online_loopclosingConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/svo_online_loopclosing/cmake/svo_online_loopclosingConfig.cmake
+Already unlinked: {}

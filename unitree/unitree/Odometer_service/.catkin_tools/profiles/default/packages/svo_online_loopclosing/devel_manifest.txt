@@ -1,0 +1,8 @@
+rpg_svo_pro_open/svo_online_loopclosing
+/home/unitree/unitree/Odometer_service/devel/.private/svo_online_loopclosing/cmake.lock /home/unitree/unitree/Odometer_service/devel/./cmake.lock
+/home/unitree/unitree/Odometer_service/devel/.private/svo_online_loopclosing/lib/libbow.so /home/unitree/unitree/Odometer_service/devel/lib/libbow.so
+/home/unitree/unitree/Odometer_service/devel/.private/svo_online_loopclosing/lib/libsvo_online_loopclosing.so /home/unitree/unitree/Odometer_service/devel/lib/libsvo_online_loopclosing.so
+/home/unitree/unitree/Odometer_service/devel/.private/svo_online_loopclosing/lib/svo_online_loopclosing/createvoc /home/unitree/unitree/Odometer_service/devel/lib/svo_online_loopclosing/createvoc
+/home/unitree/unitree/Odometer_service/devel/.private/svo_online_loopclosing/lib/pkgconfig/svo_online_loopclosing.pc /home/unitree/unitree/Odometer_service/devel/lib/pkgconfig/svo_online_loopclosing.pc
+/home/unitree/unitree/Odometer_service/devel/.private/svo_online_loopclosing/share/svo_online_loopclosing/cmake/svo_online_loopclosingConfig-version.cmake /home/unitree/unitree/Odometer_service/devel/share/svo_online_loopclosing/cmake/svo_online_loopclosingConfig-version.cmake
+/home/unitree/unitree/Odometer_service/devel/.private/svo_online_loopclosing/share/svo_online_loopclosing/cmake/svo_online_loopclosingConfig.cmake /home/unitree/unitree/Odometer_service/devel/share/svo_online_loopclosing/cmake/svo_online_loopclosingConfig.cmake

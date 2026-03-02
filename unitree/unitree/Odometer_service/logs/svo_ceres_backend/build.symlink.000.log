@@ -1,0 +1,17 @@
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/libsvo_ceres_backend.so
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/pkgconfig/svo_ceres_backend.pc
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/svo_ceres_backend/cmake/svo_ceres_backendConfig-version.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/svo_ceres_backend/cmake/svo_ceres_backendConfig.cmake
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_ceres_backend/cmake.lock, /home/unitree/unitree/unitree_vo/devel/./cmake.lock)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_ceres_backend/lib/libsvo_ceres_backend.so, /home/unitree/unitree/unitree_vo/devel/lib/libsvo_ceres_backend.so)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_ceres_backend/lib/pkgconfig/svo_ceres_backend.pc, /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/svo_ceres_backend.pc)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_ceres_backend/share/svo_ceres_backend/cmake/svo_ceres_backendConfig-version.cmake, /home/unitree/unitree/unitree_vo/devel/share/svo_ceres_backend/cmake/svo_ceres_backendConfig-version.cmake)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_ceres_backend/share/svo_ceres_backend/cmake/svo_ceres_backendConfig.cmake, /home/unitree/unitree/unitree_vo/devel/share/svo_ceres_backend/cmake/svo_ceres_backendConfig.cmake)
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/libsvo_ceres_backend.so
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/svo_ceres_backend.pc
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/svo_ceres_backend/cmake/svo_ceres_backendConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/svo_ceres_backend/cmake/svo_ceres_backendConfig.cmake
+Already unlinked: {}

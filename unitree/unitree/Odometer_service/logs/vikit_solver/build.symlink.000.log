@@ -1,0 +1,17 @@
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/libvikit_solver.so
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/pkgconfig/vikit_solver.pc
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/vikit_solver/cmake/vikit_solverConfig-version.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/vikit_solver/cmake/vikit_solverConfig.cmake
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/vikit_solver/cmake.lock, /home/unitree/unitree/unitree_vo/devel/./cmake.lock)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/vikit_solver/lib/libvikit_solver.so, /home/unitree/unitree/unitree_vo/devel/lib/libvikit_solver.so)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/vikit_solver/lib/pkgconfig/vikit_solver.pc, /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/vikit_solver.pc)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/vikit_solver/share/vikit_solver/cmake/vikit_solverConfig-version.cmake, /home/unitree/unitree/unitree_vo/devel/share/vikit_solver/cmake/vikit_solverConfig-version.cmake)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/vikit_solver/share/vikit_solver/cmake/vikit_solverConfig.cmake, /home/unitree/unitree/unitree_vo/devel/share/vikit_solver/cmake/vikit_solverConfig.cmake)
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/libvikit_solver.so
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/vikit_solver.pc
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/vikit_solver/cmake/vikit_solverConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/vikit_solver/cmake/vikit_solverConfig.cmake
+Already unlinked: {}

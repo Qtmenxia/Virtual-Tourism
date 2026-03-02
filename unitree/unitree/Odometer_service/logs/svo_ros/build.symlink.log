@@ -1,0 +1,29 @@
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/libsvo_ros.so
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/libsvo_nodelet.so
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/pkgconfig/svo_ros.pc
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/svo_ros/svo_node
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/svo_ros/svo_benchmark
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/svo_ros/cmake/svo_rosConfig.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/svo_ros/cmake/svo_rosConfig-version.cmake
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_ros/cmake.lock, /home/unitree/unitree/unitree_vo/devel/./cmake.lock)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_ros/lib/libsvo_ros.so, /home/unitree/unitree/unitree_vo/devel/lib/libsvo_ros.so)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_ros/lib/libsvo_nodelet.so, /home/unitree/unitree/unitree_vo/devel/lib/libsvo_nodelet.so)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_ros/lib/pkgconfig/svo_ros.pc, /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/svo_ros.pc)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_ros/lib/svo_ros/svo_node, /home/unitree/unitree/unitree_vo/devel/lib/svo_ros/svo_node)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_ros/lib/svo_ros/svo_benchmark, /home/unitree/unitree/unitree_vo/devel/lib/svo_ros/svo_benchmark)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_ros/share/svo_ros/cmake/svo_rosConfig.cmake, /home/unitree/unitree/unitree_vo/devel/share/svo_ros/cmake/svo_rosConfig.cmake)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_ros/share/svo_ros/cmake/svo_rosConfig-version.cmake, /home/unitree/unitree/unitree_vo/devel/share/svo_ros/cmake/svo_rosConfig-version.cmake)
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/libsvo_ros.so
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/libsvo_nodelet.so
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/svo_ros.pc
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/svo_ros/svo_node
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/svo_ros/svo_benchmark
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/svo_ros/cmake/svo_rosConfig.cmake
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/svo_ros/cmake/svo_rosConfig-version.cmake
+Already unlinked: {}

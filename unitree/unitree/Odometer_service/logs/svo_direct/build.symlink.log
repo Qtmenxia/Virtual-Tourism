@@ -1,0 +1,33 @@
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/libsvo_direct.so
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/pkgconfig/svo_direct.pc
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/svo_direct/svo_test_patch_score
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/svo_direct/svo_test_edgelet_direction
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/svo_direct/svo_test_edgelet_extraction
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/svo_direct/svo_test_feature_alignment
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/svo_direct/cmake/svo_directConfig.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/svo_direct/cmake/svo_directConfig-version.cmake
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_direct/cmake.lock, /home/unitree/unitree/unitree_vo/devel/./cmake.lock)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_direct/lib/libsvo_direct.so, /home/unitree/unitree/unitree_vo/devel/lib/libsvo_direct.so)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_direct/lib/pkgconfig/svo_direct.pc, /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/svo_direct.pc)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_direct/lib/svo_direct/svo_test_patch_score, /home/unitree/unitree/unitree_vo/devel/lib/svo_direct/svo_test_patch_score)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_direct/lib/svo_direct/svo_test_edgelet_direction, /home/unitree/unitree/unitree_vo/devel/lib/svo_direct/svo_test_edgelet_direction)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_direct/lib/svo_direct/svo_test_edgelet_extraction, /home/unitree/unitree/unitree_vo/devel/lib/svo_direct/svo_test_edgelet_extraction)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_direct/lib/svo_direct/svo_test_feature_alignment, /home/unitree/unitree/unitree_vo/devel/lib/svo_direct/svo_test_feature_alignment)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_direct/share/svo_direct/cmake/svo_directConfig.cmake, /home/unitree/unitree/unitree_vo/devel/share/svo_direct/cmake/svo_directConfig.cmake)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_direct/share/svo_direct/cmake/svo_directConfig-version.cmake, /home/unitree/unitree/unitree_vo/devel/share/svo_direct/cmake/svo_directConfig-version.cmake)
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/libsvo_direct.so
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/svo_direct.pc
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/svo_direct/svo_test_patch_score
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/svo_direct/svo_test_edgelet_direction
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/svo_direct/svo_test_edgelet_extraction
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/svo_direct/svo_test_feature_alignment
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/svo_direct/cmake/svo_directConfig.cmake
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/svo_direct/cmake/svo_directConfig-version.cmake
+Already unlinked: {}

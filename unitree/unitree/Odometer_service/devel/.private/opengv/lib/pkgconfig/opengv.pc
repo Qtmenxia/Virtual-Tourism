@@ -1,0 +1,8 @@
+prefix=/home/unitree/unitree/Odometer_service/devel/.private/opengv
+
+Name: opengv
+Description: Description of opengv
+Version: 1.0.0
+Cflags: -I/home/unitree/unitree/Odometer_service/src/opengv/include
+Libs: -L${prefix}/lib -lopengv -lrandom_generators
+Requires: 

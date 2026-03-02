@@ -1,0 +1,77 @@
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/libdbow2_catkin.so
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/libDBoW2.so
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/pkgconfig/dbow2_catkin.pc
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/cmake/DBoW2/DBoW2Config.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/dbow2_catkin/cmake/dbow2-extras.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/dbow2_catkin/cmake/dbow2_catkinConfig-version.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/dbow2_catkin/cmake/dbow2_catkinConfig.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/DBoW2/FSurf64.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/DBoW2/TemplatedVocabulary.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/DBoW2/QueryResults.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/DBoW2/FORB.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/DBoW2/DBoW2Config.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/DBoW2/TemplatedDatabase.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/DBoW2/FeatureVector.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/DBoW2/FClass.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/DBoW2/FBrief.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/DBoW2/DBoW2.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/DBoW2/ScoringObject.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/DBoW2/BowVector.h
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/dbow2_catkin/cmake.lock, /home/unitree/unitree/unitree_vo/devel/./cmake.lock)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/dbow2_catkin/lib/libdbow2_catkin.so, /home/unitree/unitree/unitree_vo/devel/lib/libdbow2_catkin.so)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/dbow2_catkin/lib/libDBoW2.so, /home/unitree/unitree/unitree_vo/devel/lib/libDBoW2.so)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/dbow2_catkin/lib/pkgconfig/dbow2_catkin.pc, /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/dbow2_catkin.pc)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/dbow2_catkin/lib/cmake/DBoW2/DBoW2Config.cmake, /home/unitree/unitree/unitree_vo/devel/lib/cmake/DBoW2/DBoW2Config.cmake)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/dbow2_catkin/share/dbow2_catkin/cmake/dbow2-extras.cmake, /home/unitree/unitree/unitree_vo/devel/share/dbow2_catkin/cmake/dbow2-extras.cmake)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/dbow2_catkin/share/dbow2_catkin/cmake/dbow2_catkinConfig-version.cmake, /home/unitree/unitree/unitree_vo/devel/share/dbow2_catkin/cmake/dbow2_catkinConfig-version.cmake)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/dbow2_catkin/share/dbow2_catkin/cmake/dbow2_catkinConfig.cmake, /home/unitree/unitree/unitree_vo/devel/share/dbow2_catkin/cmake/dbow2_catkinConfig.cmake)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/dbow2_catkin/include/DBoW2/FSurf64.h, /home/unitree/unitree/unitree_vo/devel/include/DBoW2/FSurf64.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/dbow2_catkin/include/DBoW2/TemplatedVocabulary.h, /home/unitree/unitree/unitree_vo/devel/include/DBoW2/TemplatedVocabulary.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/dbow2_catkin/include/DBoW2/QueryResults.h, /home/unitree/unitree/unitree_vo/devel/include/DBoW2/QueryResults.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/dbow2_catkin/include/DBoW2/FORB.h, /home/unitree/unitree/unitree_vo/devel/include/DBoW2/FORB.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/dbow2_catkin/include/DBoW2/DBoW2Config.cmake, /home/unitree/unitree/unitree_vo/devel/include/DBoW2/DBoW2Config.cmake)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/dbow2_catkin/include/DBoW2/TemplatedDatabase.h, /home/unitree/unitree/unitree_vo/devel/include/DBoW2/TemplatedDatabase.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/dbow2_catkin/include/DBoW2/FeatureVector.h, /home/unitree/unitree/unitree_vo/devel/include/DBoW2/FeatureVector.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/dbow2_catkin/include/DBoW2/FClass.h, /home/unitree/unitree/unitree_vo/devel/include/DBoW2/FClass.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/dbow2_catkin/include/DBoW2/FBrief.h, /home/unitree/unitree/unitree_vo/devel/include/DBoW2/FBrief.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/dbow2_catkin/include/DBoW2/DBoW2.h, /home/unitree/unitree/unitree_vo/devel/include/DBoW2/DBoW2.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/dbow2_catkin/include/DBoW2/ScoringObject.h, /home/unitree/unitree/unitree_vo/devel/include/DBoW2/ScoringObject.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/dbow2_catkin/include/DBoW2/BowVector.h, /home/unitree/unitree/unitree_vo/devel/include/DBoW2/BowVector.h)
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/libdbow2_catkin.so
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/libDBoW2.so
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/dbow2_catkin.pc
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/cmake/DBoW2/DBoW2Config.cmake
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/dbow2_catkin/cmake/dbow2-extras.cmake
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/dbow2_catkin/cmake/dbow2_catkinConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/dbow2_catkin/cmake/dbow2_catkinConfig.cmake
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/DBoW2/FSurf64.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/DBoW2/TemplatedVocabulary.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/DBoW2/QueryResults.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/DBoW2/FORB.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/DBoW2/DBoW2Config.cmake
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/DBoW2/TemplatedDatabase.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/DBoW2/FeatureVector.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/DBoW2/FClass.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/DBoW2/FBrief.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/DBoW2/DBoW2.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/DBoW2/ScoringObject.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/DBoW2/BowVector.h
+Already unlinked: {}

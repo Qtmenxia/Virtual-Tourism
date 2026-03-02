@@ -1,0 +1,12 @@
+Symlinking /home/unitree/unitree/Odometer_service/devel/./local_setup.zsh
+Symlinking /home/unitree/unitree/Odometer_service/devel/./env.sh
+Symlinking /home/unitree/unitree/Odometer_service/devel/./cmake.lock
+Symlinking /home/unitree/unitree/Odometer_service/devel/./local_setup.sh
+Symlinking /home/unitree/unitree/Odometer_service/devel/./setup.bash
+Symlinking /home/unitree/unitree/Odometer_service/devel/./local_setup.bash
+Symlinking /home/unitree/unitree/Odometer_service/devel/./setup.sh
+Symlinking /home/unitree/unitree/Odometer_service/devel/./_setup_util.py
+Symlinking /home/unitree/unitree/Odometer_service/devel/./setup.zsh
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake

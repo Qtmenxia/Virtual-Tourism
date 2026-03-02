@@ -1,0 +1,17 @@
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/librpg_common.so
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/pkgconfig/rpg_common.pc
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/rpg_common/cmake/rpg_commonConfig.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/rpg_common/cmake/rpg_commonConfig-version.cmake
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/rpg_common/cmake.lock, /home/unitree/unitree/unitree_vo/devel/./cmake.lock)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/rpg_common/lib/librpg_common.so, /home/unitree/unitree/unitree_vo/devel/lib/librpg_common.so)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/rpg_common/lib/pkgconfig/rpg_common.pc, /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/rpg_common.pc)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/rpg_common/share/rpg_common/cmake/rpg_commonConfig.cmake, /home/unitree/unitree/unitree_vo/devel/share/rpg_common/cmake/rpg_commonConfig.cmake)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/rpg_common/share/rpg_common/cmake/rpg_commonConfig-version.cmake, /home/unitree/unitree/unitree_vo/devel/share/rpg_common/cmake/rpg_commonConfig-version.cmake)
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/librpg_common.so
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/rpg_common.pc
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/rpg_common/cmake/rpg_commonConfig.cmake
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/rpg_common/cmake/rpg_commonConfig-version.cmake
+Already unlinked: {}

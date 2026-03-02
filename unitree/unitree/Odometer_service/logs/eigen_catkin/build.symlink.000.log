@@ -1,0 +1,4 @@
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/pkgconfig/eigen_catkin.pc
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/eigen_catkin/cmake/eigen_catkinConfig-version.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/eigen_catkin/cmake/eigen_catkinConfig.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/eigen_catkin/cmake/eigen-extras.cmake

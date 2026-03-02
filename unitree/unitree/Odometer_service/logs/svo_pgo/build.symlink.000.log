@@ -1,0 +1,21 @@
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/libsvo_pgo.so
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/svo_pgo/test_pgo
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/pkgconfig/svo_pgo.pc
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/svo_pgo/cmake/svo_pgoConfig.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/svo_pgo/cmake/svo_pgoConfig-version.cmake
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_pgo/cmake.lock, /home/unitree/unitree/unitree_vo/devel/./cmake.lock)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_pgo/lib/libsvo_pgo.so, /home/unitree/unitree/unitree_vo/devel/lib/libsvo_pgo.so)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_pgo/lib/svo_pgo/test_pgo, /home/unitree/unitree/unitree_vo/devel/lib/svo_pgo/test_pgo)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_pgo/lib/pkgconfig/svo_pgo.pc, /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/svo_pgo.pc)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_pgo/share/svo_pgo/cmake/svo_pgoConfig.cmake, /home/unitree/unitree/unitree_vo/devel/share/svo_pgo/cmake/svo_pgoConfig.cmake)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_pgo/share/svo_pgo/cmake/svo_pgoConfig-version.cmake, /home/unitree/unitree/unitree_vo/devel/share/svo_pgo/cmake/svo_pgoConfig-version.cmake)
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/libsvo_pgo.so
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/svo_pgo/test_pgo
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/svo_pgo.pc
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/svo_pgo/cmake/svo_pgoConfig.cmake
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/svo_pgo/cmake/svo_pgoConfig-version.cmake
+Already unlinked: {}

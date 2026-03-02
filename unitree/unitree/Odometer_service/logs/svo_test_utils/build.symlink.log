@@ -1,0 +1,17 @@
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/libsvo_test_utils.so
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/pkgconfig/svo_test_utils.pc
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/svo_test_utils/cmake/svo_test_utilsConfig-version.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/svo_test_utils/cmake/svo_test_utilsConfig.cmake
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_test_utils/cmake.lock, /home/unitree/unitree/unitree_vo/devel/./cmake.lock)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_test_utils/lib/libsvo_test_utils.so, /home/unitree/unitree/unitree_vo/devel/lib/libsvo_test_utils.so)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_test_utils/lib/pkgconfig/svo_test_utils.pc, /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/svo_test_utils.pc)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_test_utils/share/svo_test_utils/cmake/svo_test_utilsConfig-version.cmake, /home/unitree/unitree/unitree_vo/devel/share/svo_test_utils/cmake/svo_test_utilsConfig-version.cmake)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_test_utils/share/svo_test_utils/cmake/svo_test_utilsConfig.cmake, /home/unitree/unitree/unitree_vo/devel/share/svo_test_utils/cmake/svo_test_utilsConfig.cmake)
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/libsvo_test_utils.so
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/svo_test_utils.pc
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/svo_test_utils/cmake/svo_test_utilsConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/svo_test_utils/cmake/svo_test_utilsConfig.cmake
+Already unlinked: {}

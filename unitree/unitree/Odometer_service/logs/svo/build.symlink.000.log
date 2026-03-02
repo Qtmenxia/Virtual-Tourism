@@ -1,0 +1,17 @@
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/libsvo.so
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/pkgconfig/svo.pc
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/svo/cmake/svoConfig-version.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/svo/cmake/svoConfig.cmake
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo/cmake.lock, /home/unitree/unitree/unitree_vo/devel/./cmake.lock)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo/lib/libsvo.so, /home/unitree/unitree/unitree_vo/devel/lib/libsvo.so)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo/lib/pkgconfig/svo.pc, /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/svo.pc)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo/share/svo/cmake/svoConfig-version.cmake, /home/unitree/unitree/unitree_vo/devel/share/svo/cmake/svoConfig-version.cmake)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo/share/svo/cmake/svoConfig.cmake, /home/unitree/unitree/unitree_vo/devel/share/svo/cmake/svoConfig.cmake)
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/libsvo.so
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/svo.pc
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/svo/cmake/svoConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/svo/cmake/svoConfig.cmake
+Already unlinked: {}

@@ -1,0 +1,17 @@
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/libvikit_ros.so
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/pkgconfig/vikit_ros.pc
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/vikit_ros/cmake/vikit_rosConfig-version.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/vikit_ros/cmake/vikit_rosConfig.cmake
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/vikit_ros/cmake.lock, /home/unitree/unitree/unitree_vo/devel/./cmake.lock)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/vikit_ros/lib/libvikit_ros.so, /home/unitree/unitree/unitree_vo/devel/lib/libvikit_ros.so)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/vikit_ros/lib/pkgconfig/vikit_ros.pc, /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/vikit_ros.pc)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/vikit_ros/share/vikit_ros/cmake/vikit_rosConfig-version.cmake, /home/unitree/unitree/unitree_vo/devel/share/vikit_ros/cmake/vikit_rosConfig-version.cmake)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/vikit_ros/share/vikit_ros/cmake/vikit_rosConfig.cmake, /home/unitree/unitree/unitree_vo/devel/share/vikit_ros/cmake/vikit_rosConfig.cmake)
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/libvikit_ros.so
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/vikit_ros.pc
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/vikit_ros/cmake/vikit_rosConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/vikit_ros/cmake/vikit_rosConfig.cmake
+Already unlinked: {}

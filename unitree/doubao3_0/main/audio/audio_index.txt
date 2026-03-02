@@ -1,0 +1,8 @@
+//home/unitree/doubao3_0/main/audio/audio_0.mp3
+//home/unitree/doubao3_0/main/audio/audio_100.mp3
+//home/unitree/doubao3_0/main/audio/audio_200.mp3
+//home/unitree/doubao3_0/main/audio/audio_300.mp3
+//home/unitree/doubao3_0/main/audio/audio_400.mp3
+//home/unitree/doubao3_0/main/audio/audio_500.mp3
+//home/unitree/doubao3_0/main/audio/audio_600.mp3
+//home/unitree/doubao3_0/main/audio/audio_700.mp3

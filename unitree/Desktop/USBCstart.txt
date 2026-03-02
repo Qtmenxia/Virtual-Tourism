@@ -1,0 +1,5 @@
+sudo su
+busybox devmem 0x02430030 w 0x004
+echo 446 > /sys/class/gpio/export
+echo out > /sys/class/gpio/PP.06/direction
+echo 1 > /sys/class/gpio/PP.06/value

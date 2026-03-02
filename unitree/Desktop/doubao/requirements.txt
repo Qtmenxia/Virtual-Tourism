@@ -1,0 +1,11 @@
+numpy
+matplotlib
+opencv-python
+playsound
+requests
+flask[async]
+pygame
+huaweicloudsdkiam
+websockets
+websocket
+volcengine-python-sdk[ark]

@@ -1,0 +1,4 @@
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/pkgconfig/rpg_trajectory_evaluation.pc
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/python3/dist-packages/rpg_trajectory_evaluation/__init__.py
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/rpg_trajectory_evaluation/cmake/rpg_trajectory_evaluationConfig.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/rpg_trajectory_evaluation/cmake/rpg_trajectory_evaluationConfig-version.cmake

@@ -1,0 +1,13 @@
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/pkgconfig/minkindr_conversions.pc
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/minkindr_conversions/cmake/minkindr_conversionsConfig.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/minkindr_conversions/cmake/minkindr_conversionsConfig-version.cmake
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/minkindr_conversions/cmake.lock, /home/unitree/unitree/unitree_vo/devel/./cmake.lock)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/minkindr_conversions/lib/pkgconfig/minkindr_conversions.pc, /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/minkindr_conversions.pc)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/minkindr_conversions/share/minkindr_conversions/cmake/minkindr_conversionsConfig.cmake, /home/unitree/unitree/unitree_vo/devel/share/minkindr_conversions/cmake/minkindr_conversionsConfig.cmake)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/minkindr_conversions/share/minkindr_conversions/cmake/minkindr_conversionsConfig-version.cmake, /home/unitree/unitree/unitree_vo/devel/share/minkindr_conversions/cmake/minkindr_conversionsConfig-version.cmake)
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/minkindr_conversions.pc
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/minkindr_conversions/cmake/minkindr_conversionsConfig.cmake
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/minkindr_conversions/cmake/minkindr_conversionsConfig-version.cmake
+Already unlinked: {}

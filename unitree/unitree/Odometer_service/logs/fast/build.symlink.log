@@ -1,0 +1,17 @@
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/libfast.so
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/pkgconfig/fast.pc
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/fast/cmake/fastConfig.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/fast/cmake/fastConfig-version.cmake
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/fast/cmake.lock, /home/unitree/unitree/unitree_vo/devel/./cmake.lock)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/fast/lib/libfast.so, /home/unitree/unitree/unitree_vo/devel/lib/libfast.so)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/fast/lib/pkgconfig/fast.pc, /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/fast.pc)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/fast/share/fast/cmake/fastConfig.cmake, /home/unitree/unitree/unitree_vo/devel/share/fast/cmake/fastConfig.cmake)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/fast/share/fast/cmake/fastConfig-version.cmake, /home/unitree/unitree/unitree_vo/devel/share/fast/cmake/fastConfig-version.cmake)
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/libfast.so
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/fast.pc
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/fast/cmake/fastConfig.cmake
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/fast/cmake/fastConfig-version.cmake
+Already unlinked: {}

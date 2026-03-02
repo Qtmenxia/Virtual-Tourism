@@ -1,0 +1,6 @@
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/pkgconfig/rqt_svo.pc
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/python3/dist-packages/rqt_svo/__init__.py
+Symlinking /home/unitree/unitree/Odometer_service/devel/bin/cmake.lock
+Symlinking /home/unitree/unitree/Odometer_service/devel/bin/rqt_svo
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/rqt_svo/cmake/rqt_svoConfig-version.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/rqt_svo/cmake/rqt_svoConfig.cmake

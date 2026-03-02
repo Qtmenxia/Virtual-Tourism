@@ -1,0 +1,136 @@
+# TensorFlow 到 PyTorch 迁移指南
+
+## 迁移概述
+
+本文档详细说明了如何将您的哈工大地标识别项目从 TensorFlow 迁移到 PyTorch。
+
+## 主要变化
+
+### 1. 模型预测 (`modelpredict.py`)
+
+**TensorFlow 版本特点：**
+- 使用 `tf.keras.models` 加载模型
+- 使用 `model.predict()` 进行预测
+- 图像预处理使用 `tf.image` 函数
+
+**PyTorch 版本特点：**
+- 使用 `torchvision.models` 和自定义类
+- 使用 `model.forward()` 或 `model()` 进行预测
+- 图像预处理使用 `torchvision.transforms`
+- 支持 GPU/CPU 自动选择
+
+### 2. 图像处理 (`camera.py`)
+
+**主要更新：**
+- 添加了 `image_to_tensor()` 函数，将 numpy 数组转换为 PyTorch tensor
+- 添加了 `tensor_to_image()` 函数，将 tensor 转换回图像
+- 保留了原有的 OpenCV 接口，确保兼容性
+- 新增 `VideoCapture` 类，支持直接读取 tensor 格式的帧
+
+### 3. 训练脚本
+
+**新增功能：**
+- 完整的 PyTorch 训练循环
+- 数据增强使用 `torchvision.transforms`
+- 支持学习率调度器
+- 自动保存最佳模型
+- 训练历史可视化
+
+### 4. 推理服务器
+
+**新增特性：**
+- 基于 Flask 的 REST API
+- 支持单张和批量图像预测
+- 模型优化工具（量化、ONNX 导出、TorchScript）
+- 性能监控和统计
+
+## 迁移步骤
+
+### 1. 安装依赖
+
+```bash
+pip install -r requirements.txt
+```
+
+如果使用 GPU，请安装对应 CUDA 版本的 PyTorch：
+```bash
+# CUDA 11.8
+pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
+
+# CUDA 12.1
+pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+```
+
+### 2. 模型转换
+
+如果您有 TensorFlow 训练的模型，需要：
+
+1. 在 TensorFlow 中导出模型权重
+2. 使用相同的架构在 PyTorch 中创建模型
+3. 手动转换权重
+
+或者使用新的训练脚本重新训练模型：
+
+```python
+python train_pytorch.py
+```
+
+### 3. 更新代码引用
+
+将所有引用更新为新的 PyTorch 版本：
+
+```python
+# 旧代码
+from tools.modelpredict import predict_image  # TensorFlow 版本
+
+# 新代码
+from tools.modelpredict import predict_image  # PyTorch 版本
+```
+
+### 4. 测试环境
+
+运行测试脚本确认环境配置正确：
+
+```python
+python main.py
+```
+
+## 性能对比
+
+### 优势
+- **更快的推理速度**：PyTorch 的动态图在推理时可以优化得更好
+- **更少的内存占用**：PyTorch 的内存管理更加灵活
+- **更好的 GPU 利用率**：PyTorch 与 CUDA 的集成更紧密
+- **更容易的模型部署**：支持 ONNX、TorchScript 等多种部署格式
+
+### 注意事项
+- 模型权重格式不同，需要重新训练或转换
+- 某些 TensorFlow 特有的层可能需要在 PyTorch 中重新实现
+- 数据加载器的实现方式不同
+
+## 常见问题
+
+### Q1: 如何处理 TensorFlow 的预训练权重？
+
+如果必须使用 TensorFlow 的预训练权重，可以：
+1. 使用 ONNX 作为中间格式
+2. 手动提取和转换权重
+3. 使用专门的转换工具如 `tf2onnx` 和 `onnx2pytorch`
+
+### Q2: 性能调优建议？
+
+1. 使用混合精度训练（AMP）
+2. 启用 cuDNN 基准测试：`torch.backends.cudnn.benchmark = True`
+3. 使用 DataLoader 的多进程加载：`num_workers > 0`
+4. 考虑模型量化和剪枝
+
+### Q3: 如何确保结果一致性？
+
+1. 确保相同的预处理步骤
+2. 设置相同的随机种子
+3. 使用相同的模型架构
+4. 验证输入数据格式
+
+## 总结
+
+这次迁移保留了原有项目的所有功能，同时利用了 PyTorch 的优势。主要文件的接口保持不变，确保了与其他模块的兼容性。新增的功能如模型优化和性能监控，可以帮助您更好地部署和维护模型。

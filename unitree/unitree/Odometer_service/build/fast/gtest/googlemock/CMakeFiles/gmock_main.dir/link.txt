@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -std=c++11 -Wall -Werror -Wno-unused-variable -Wno-unused-but-set-variable -Wno-unknown-pragmas -O3 -march=native -O3 -DNDEBUG  -shared -Wl,-soname,libgmock_main.so -o ../lib/libgmock_main.so CMakeFiles/gmock_main.dir/src/gmock_main.cc.o  -Wl,-rpath,/home/unitree/unitree/Odometer_service/build/fast/gtest/lib ../lib/libgmock.so ../lib/libgtest.so -lpthread 

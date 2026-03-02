@@ -1,0 +1,93 @@
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/libglog.so.0.0.0
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/libglog.la
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/libglog.so
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/libglog.a
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/libglog.so.0
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/pkgconfig/libglog.pc
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/pkgconfig/glog_catkin.pc
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/glog_catkin/cmake/glog_catkinConfig-version.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/glog_catkin/cmake/glog_catkinConfig.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/doc/glog-0.3.5/NEWS
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/doc/glog-0.3.5/AUTHORS
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/doc/glog-0.3.5/README.windows
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/doc/glog-0.3.5/INSTALL
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/doc/glog-0.3.5/glog.html
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/doc/glog-0.3.5/COPYING
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/doc/glog-0.3.5/ChangeLog
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/doc/glog-0.3.5/designstyle.css
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/doc/glog-0.3.5/README
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/glog/stl_logging.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/glog/vlog_is_on.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/glog/logging.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/glog/raw_logging.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/glog/log_severity.h
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/glog_catkin/cmake.lock, /home/unitree/unitree/unitree_vo/devel/./cmake.lock)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/glog_catkin/lib/libglog.so.0.0.0, /home/unitree/unitree/unitree_vo/devel/lib/libglog.so.0.0.0)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/glog_catkin/lib/libglog.la, /home/unitree/unitree/unitree_vo/devel/lib/libglog.la)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/glog_catkin/lib/libglog.so, /home/unitree/unitree/unitree_vo/devel/lib/libglog.so)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/glog_catkin/lib/libglog.a, /home/unitree/unitree/unitree_vo/devel/lib/libglog.a)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/glog_catkin/lib/libglog.so.0, /home/unitree/unitree/unitree_vo/devel/lib/libglog.so.0)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/glog_catkin/lib/pkgconfig/libglog.pc, /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/libglog.pc)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/glog_catkin/lib/pkgconfig/glog_catkin.pc, /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/glog_catkin.pc)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/glog_catkin/share/glog_catkin/cmake/glog_catkinConfig-version.cmake, /home/unitree/unitree/unitree_vo/devel/share/glog_catkin/cmake/glog_catkinConfig-version.cmake)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/glog_catkin/share/glog_catkin/cmake/glog_catkinConfig.cmake, /home/unitree/unitree/unitree_vo/devel/share/glog_catkin/cmake/glog_catkinConfig.cmake)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/glog_catkin/share/doc/glog-0.3.5/NEWS, /home/unitree/unitree/unitree_vo/devel/share/doc/glog-0.3.5/NEWS)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/glog_catkin/share/doc/glog-0.3.5/AUTHORS, /home/unitree/unitree/unitree_vo/devel/share/doc/glog-0.3.5/AUTHORS)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/glog_catkin/share/doc/glog-0.3.5/README.windows, /home/unitree/unitree/unitree_vo/devel/share/doc/glog-0.3.5/README.windows)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/glog_catkin/share/doc/glog-0.3.5/INSTALL, /home/unitree/unitree/unitree_vo/devel/share/doc/glog-0.3.5/INSTALL)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/glog_catkin/share/doc/glog-0.3.5/glog.html, /home/unitree/unitree/unitree_vo/devel/share/doc/glog-0.3.5/glog.html)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/glog_catkin/share/doc/glog-0.3.5/COPYING, /home/unitree/unitree/unitree_vo/devel/share/doc/glog-0.3.5/COPYING)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/glog_catkin/share/doc/glog-0.3.5/ChangeLog, /home/unitree/unitree/unitree_vo/devel/share/doc/glog-0.3.5/ChangeLog)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/glog_catkin/share/doc/glog-0.3.5/designstyle.css, /home/unitree/unitree/unitree_vo/devel/share/doc/glog-0.3.5/designstyle.css)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/glog_catkin/share/doc/glog-0.3.5/README, /home/unitree/unitree/unitree_vo/devel/share/doc/glog-0.3.5/README)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/glog_catkin/include/glog/stl_logging.h, /home/unitree/unitree/unitree_vo/devel/include/glog/stl_logging.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/glog_catkin/include/glog/vlog_is_on.h, /home/unitree/unitree/unitree_vo/devel/include/glog/vlog_is_on.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/glog_catkin/include/glog/logging.h, /home/unitree/unitree/unitree_vo/devel/include/glog/logging.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/glog_catkin/include/glog/raw_logging.h, /home/unitree/unitree/unitree_vo/devel/include/glog/raw_logging.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/glog_catkin/include/glog/log_severity.h, /home/unitree/unitree/unitree_vo/devel/include/glog/log_severity.h)
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/libglog.so.0.0.0
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/libglog.la
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/libglog.so
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/libglog.a
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/libglog.so.0
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/libglog.pc
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/glog_catkin.pc
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/glog_catkin/cmake/glog_catkinConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/glog_catkin/cmake/glog_catkinConfig.cmake
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/doc/glog-0.3.5/NEWS
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/doc/glog-0.3.5/AUTHORS
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/doc/glog-0.3.5/README.windows
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/doc/glog-0.3.5/INSTALL
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/doc/glog-0.3.5/glog.html
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/doc/glog-0.3.5/COPYING
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/doc/glog-0.3.5/ChangeLog
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/doc/glog-0.3.5/designstyle.css
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/doc/glog-0.3.5/README
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/glog/stl_logging.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/glog/vlog_is_on.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/glog/logging.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/glog/raw_logging.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/glog/log_severity.h
+Already unlinked: {}

@@ -1,0 +1,6 @@
+rpg_svo_pro_open/vikit/vikit_solver
+/home/unitree/unitree/Odometer_service/devel/.private/vikit_solver/cmake.lock /home/unitree/unitree/Odometer_service/devel/./cmake.lock
+/home/unitree/unitree/Odometer_service/devel/.private/vikit_solver/lib/libvikit_solver.so /home/unitree/unitree/Odometer_service/devel/lib/libvikit_solver.so
+/home/unitree/unitree/Odometer_service/devel/.private/vikit_solver/lib/pkgconfig/vikit_solver.pc /home/unitree/unitree/Odometer_service/devel/lib/pkgconfig/vikit_solver.pc
+/home/unitree/unitree/Odometer_service/devel/.private/vikit_solver/share/vikit_solver/cmake/vikit_solverConfig-version.cmake /home/unitree/unitree/Odometer_service/devel/share/vikit_solver/cmake/vikit_solverConfig-version.cmake
+/home/unitree/unitree/Odometer_service/devel/.private/vikit_solver/share/vikit_solver/cmake/vikit_solverConfig.cmake /home/unitree/unitree/Odometer_service/devel/share/vikit_solver/cmake/vikit_solverConfig.cmake

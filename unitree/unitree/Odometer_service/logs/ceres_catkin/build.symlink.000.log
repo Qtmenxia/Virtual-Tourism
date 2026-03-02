@@ -1,0 +1,249 @@
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/libceres.so.1.14.0
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/libceres.so.1
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/libceres.so
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/pkgconfig/ceres_catkin.pc
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/cmake/Ceres/FindEigen.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/cmake/Ceres/FindGflags.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/cmake/Ceres/CeresTargets-release.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/cmake/Ceres/FindGlog.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/cmake/Ceres/CeresConfig.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/cmake/Ceres/CeresConfigVersion.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/cmake/Ceres/CeresTargets.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/ceres_catkin/cmake/ceres_catkinConfig.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/ceres_catkin/cmake/ceres_catkinConfig-version.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/solver.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/iteration_callback.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/sized_cost_function.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/context.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/jet.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/dynamic_cost_function.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/cost_function.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/tiny_solver.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/cubic_interpolation.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/autodiff_cost_function.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/ordered_groups.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/autodiff_local_parameterization.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/crs_matrix.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/covariance.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/problem.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/dynamic_cost_function_to_functor.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/gradient_checker.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/numeric_diff_options.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/rotation.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/normal_prior.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/version.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/ceres.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/c_api.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/evaluation_callback.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/conditioned_cost_function.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/dynamic_autodiff_cost_function.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/types.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/tiny_solver_cost_function_adapter.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/fpclassify.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/cost_function_to_functor.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/gradient_problem.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/tiny_solver_autodiff_function.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/loss_function.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/gradient_problem_solver.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/local_parameterization.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/numeric_diff_cost_function.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/dynamic_numeric_diff_cost_function.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/internal/config.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/internal/macros.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/internal/eigen.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/internal/port.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/internal/scoped_ptr.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/internal/numeric_diff.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/internal/manual_constructor.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/internal/disable_warnings.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/internal/variadic_evaluate.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/internal/reenable_warnings.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/internal/autodiff.h
+Symlinking /home/unitree/unitree/Odometer_service/devel/include/ceres/internal/fixed_array.h
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/cmake.lock, /home/unitree/unitree/unitree_vo/devel/./cmake.lock)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/lib/libceres.so.1.14.0, /home/unitree/unitree/unitree_vo/devel/lib/libceres.so.1.14.0)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/lib/libceres.so.1, /home/unitree/unitree/unitree_vo/devel/lib/libceres.so.1)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/lib/libceres.so, /home/unitree/unitree/unitree_vo/devel/lib/libceres.so)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/lib/pkgconfig/ceres_catkin.pc, /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/ceres_catkin.pc)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/lib/cmake/Ceres/FindEigen.cmake, /home/unitree/unitree/unitree_vo/devel/lib/cmake/Ceres/FindEigen.cmake)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/lib/cmake/Ceres/FindGflags.cmake, /home/unitree/unitree/unitree_vo/devel/lib/cmake/Ceres/FindGflags.cmake)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/lib/cmake/Ceres/CeresTargets-release.cmake, /home/unitree/unitree/unitree_vo/devel/lib/cmake/Ceres/CeresTargets-release.cmake)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/lib/cmake/Ceres/FindGlog.cmake, /home/unitree/unitree/unitree_vo/devel/lib/cmake/Ceres/FindGlog.cmake)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/lib/cmake/Ceres/CeresConfig.cmake, /home/unitree/unitree/unitree_vo/devel/lib/cmake/Ceres/CeresConfig.cmake)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/lib/cmake/Ceres/CeresConfigVersion.cmake, /home/unitree/unitree/unitree_vo/devel/lib/cmake/Ceres/CeresConfigVersion.cmake)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/lib/cmake/Ceres/CeresTargets.cmake, /home/unitree/unitree/unitree_vo/devel/lib/cmake/Ceres/CeresTargets.cmake)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/share/ceres_catkin/cmake/ceres_catkinConfig.cmake, /home/unitree/unitree/unitree_vo/devel/share/ceres_catkin/cmake/ceres_catkinConfig.cmake)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/share/ceres_catkin/cmake/ceres_catkinConfig-version.cmake, /home/unitree/unitree/unitree_vo/devel/share/ceres_catkin/cmake/ceres_catkinConfig-version.cmake)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/solver.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/solver.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/iteration_callback.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/iteration_callback.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/sized_cost_function.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/sized_cost_function.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/context.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/context.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/jet.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/jet.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/dynamic_cost_function.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/dynamic_cost_function.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/cost_function.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/cost_function.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/tiny_solver.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/tiny_solver.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/cubic_interpolation.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/cubic_interpolation.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/autodiff_cost_function.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/autodiff_cost_function.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/ordered_groups.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/ordered_groups.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/autodiff_local_parameterization.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/autodiff_local_parameterization.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/crs_matrix.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/crs_matrix.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/covariance.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/covariance.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/problem.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/problem.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/dynamic_cost_function_to_functor.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/dynamic_cost_function_to_functor.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/gradient_checker.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/gradient_checker.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/numeric_diff_options.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/numeric_diff_options.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/rotation.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/rotation.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/normal_prior.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/normal_prior.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/version.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/version.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/ceres.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/ceres.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/c_api.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/c_api.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/evaluation_callback.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/evaluation_callback.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/conditioned_cost_function.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/conditioned_cost_function.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/dynamic_autodiff_cost_function.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/dynamic_autodiff_cost_function.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/types.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/types.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/tiny_solver_cost_function_adapter.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/tiny_solver_cost_function_adapter.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/fpclassify.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/fpclassify.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/cost_function_to_functor.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/cost_function_to_functor.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/gradient_problem.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/gradient_problem.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/tiny_solver_autodiff_function.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/tiny_solver_autodiff_function.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/loss_function.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/loss_function.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/gradient_problem_solver.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/gradient_problem_solver.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/local_parameterization.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/local_parameterization.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/numeric_diff_cost_function.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/numeric_diff_cost_function.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/dynamic_numeric_diff_cost_function.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/dynamic_numeric_diff_cost_function.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/internal/config.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/internal/config.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/internal/macros.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/internal/macros.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/internal/eigen.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/internal/eigen.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/internal/port.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/internal/port.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/internal/scoped_ptr.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/internal/scoped_ptr.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/internal/numeric_diff.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/internal/numeric_diff.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/internal/manual_constructor.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/internal/manual_constructor.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/internal/disable_warnings.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/internal/disable_warnings.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/internal/variadic_evaluate.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/internal/variadic_evaluate.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/internal/reenable_warnings.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/internal/reenable_warnings.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/internal/autodiff.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/internal/autodiff.h)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/ceres_catkin/include/ceres/internal/fixed_array.h, /home/unitree/unitree/unitree_vo/devel/include/ceres/internal/fixed_array.h)
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/libceres.so.1.14.0
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/libceres.so.1
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/libceres.so
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/ceres_catkin.pc
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/cmake/Ceres/FindEigen.cmake
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/cmake/Ceres/FindGflags.cmake
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/cmake/Ceres/CeresTargets-release.cmake
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/cmake/Ceres/FindGlog.cmake
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/cmake/Ceres/CeresConfig.cmake
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/cmake/Ceres/CeresConfigVersion.cmake
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/cmake/Ceres/CeresTargets.cmake
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/ceres_catkin/cmake/ceres_catkinConfig.cmake
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/ceres_catkin/cmake/ceres_catkinConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/solver.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/iteration_callback.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/sized_cost_function.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/context.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/jet.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/dynamic_cost_function.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/cost_function.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/tiny_solver.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/cubic_interpolation.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/autodiff_cost_function.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/ordered_groups.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/autodiff_local_parameterization.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/crs_matrix.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/covariance.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/problem.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/dynamic_cost_function_to_functor.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/gradient_checker.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/numeric_diff_options.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/rotation.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/normal_prior.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/version.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/ceres.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/c_api.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/evaluation_callback.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/conditioned_cost_function.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/dynamic_autodiff_cost_function.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/types.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/tiny_solver_cost_function_adapter.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/fpclassify.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/cost_function_to_functor.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/gradient_problem.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/tiny_solver_autodiff_function.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/loss_function.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/gradient_problem_solver.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/local_parameterization.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/numeric_diff_cost_function.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/dynamic_numeric_diff_cost_function.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/internal/config.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/internal/macros.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/internal/eigen.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/internal/port.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/internal/scoped_ptr.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/internal/numeric_diff.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/internal/manual_constructor.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/internal/disable_warnings.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/internal/variadic_evaluate.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/internal/reenable_warnings.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/internal/autodiff.h
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/include/ceres/internal/fixed_array.h
+Already unlinked: {}

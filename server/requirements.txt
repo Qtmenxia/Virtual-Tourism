@@ -1,0 +1,52 @@
+#python==3.13
+volcengine-python-sdk[ark]
+playsound==1.2.2
+websockets
+websocket-client
+timm
+aiofiles
+
+# PyTorch (根据您的系统选择合适的版本)
+# CPU 版本
+torch==2.7.0
+torchvision==0.22.0
+# GPU 版本 (CUDA 11.8)
+# torch==2.1.0+cu118
+# torchvision==0.16.0+cu118
+
+# Web 框架
+flask==3.0.0
+flask-cors==4.0.0
+
+# 图像处理
+opencv-python==4.8.1.78
+Pillow>=11.0.0
+matplotlib
+
+# 音频处理
+pydub==0.25.1
+pygame==2.5.2 #python==3.13需单独处理
+
+# 异步支持
+asyncio==3.4.3
+aiohttp
+
+# 数据处理
+numpy
+pandas
+tqdm
+
+# LangChain 和 LLM 相关
+langchain
+langchain-community
+openai
+langgraph
+
+# 性能优化
+onnx
+onnxruntime
+
+# 其他工具
+requests
+python-dotenv
+pyyaml

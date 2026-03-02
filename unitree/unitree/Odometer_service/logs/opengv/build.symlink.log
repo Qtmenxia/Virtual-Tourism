@@ -1,0 +1,85 @@
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/libopengv.so
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/librandom_generators.so
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/opengv/test_absolute_pose_sac
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/opengv/test_noncentral_absolute_pose_sac
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/opengv/test_noncentral_relative_pose_sac
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/opengv/test_multi_noncentral_relative_pose_sac
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/opengv/test_noncentral_absolute_pose
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/opengv/test_point_cloud
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/opengv/test_eigensolver
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/opengv/test_relative_pose_rotationOnly
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/opengv/test_relative_pose
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/opengv/test_noncentral_relative_pose
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/opengv/test_absolute_pose
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/opengv/test_relative_pose_sac
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/opengv/test_eigensolver_sac
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/opengv/test_relative_pose_rotationOnly_sac
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/opengv/test_point_cloud_sac
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/opengv/test_triangulation
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/pkgconfig/opengv.pc
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/opengv/cmake/opengvConfig-version.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/opengv/cmake/opengvConfig.cmake
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/opengv/cmake.lock, /home/unitree/unitree/unitree_vo/devel/./cmake.lock)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/opengv/lib/libopengv.so, /home/unitree/unitree/unitree_vo/devel/lib/libopengv.so)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/opengv/lib/librandom_generators.so, /home/unitree/unitree/unitree_vo/devel/lib/librandom_generators.so)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/opengv/lib/opengv/test_absolute_pose_sac, /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_absolute_pose_sac)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/opengv/lib/opengv/test_noncentral_absolute_pose_sac, /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_noncentral_absolute_pose_sac)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/opengv/lib/opengv/test_noncentral_relative_pose_sac, /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_noncentral_relative_pose_sac)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/opengv/lib/opengv/test_multi_noncentral_relative_pose_sac, /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_multi_noncentral_relative_pose_sac)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/opengv/lib/opengv/test_noncentral_absolute_pose, /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_noncentral_absolute_pose)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/opengv/lib/opengv/test_point_cloud, /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_point_cloud)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/opengv/lib/opengv/test_eigensolver, /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_eigensolver)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/opengv/lib/opengv/test_relative_pose_rotationOnly, /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_relative_pose_rotationOnly)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/opengv/lib/opengv/test_relative_pose, /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_relative_pose)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/opengv/lib/opengv/test_noncentral_relative_pose, /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_noncentral_relative_pose)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/opengv/lib/opengv/test_absolute_pose, /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_absolute_pose)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/opengv/lib/opengv/test_relative_pose_sac, /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_relative_pose_sac)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/opengv/lib/opengv/test_eigensolver_sac, /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_eigensolver_sac)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/opengv/lib/opengv/test_relative_pose_rotationOnly_sac, /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_relative_pose_rotationOnly_sac)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/opengv/lib/opengv/test_point_cloud_sac, /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_point_cloud_sac)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/opengv/lib/opengv/test_triangulation, /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_triangulation)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/opengv/lib/pkgconfig/opengv.pc, /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/opengv.pc)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/opengv/share/opengv/cmake/opengvConfig-version.cmake, /home/unitree/unitree/unitree_vo/devel/share/opengv/cmake/opengvConfig-version.cmake)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/opengv/share/opengv/cmake/opengvConfig.cmake, /home/unitree/unitree/unitree_vo/devel/share/opengv/cmake/opengvConfig.cmake)
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/libopengv.so
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/librandom_generators.so
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_absolute_pose_sac
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_noncentral_absolute_pose_sac
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_noncentral_relative_pose_sac
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_multi_noncentral_relative_pose_sac
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_noncentral_absolute_pose
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_point_cloud
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_eigensolver
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_relative_pose_rotationOnly
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_relative_pose
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_noncentral_relative_pose
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_absolute_pose
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_relative_pose_sac
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_eigensolver_sac
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_relative_pose_rotationOnly_sac
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_point_cloud_sac
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/opengv/test_triangulation
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/opengv.pc
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/opengv/cmake/opengvConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/opengv/cmake/opengvConfig.cmake
+Already unlinked: {}

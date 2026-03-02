@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/unitree/unitree/Odometer_service/devel/.private/svo_common/setup.sh

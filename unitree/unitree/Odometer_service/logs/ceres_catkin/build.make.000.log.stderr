@@ -1,0 +1,33 @@
+Cloning into 'ceres_src'...
+Note: switching to '1.14.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at facb199f Add the missing (2,4,6) specialization to Android.mk
+-- Found Eigen version 3.3.7: /usr/include/eigen3
+-- Enabling use of Eigen as a sparse linear algebra library.
+-- Found LAPACK library: /usr/lib/aarch64-linux-gnu/libopenblas.so
+-- Found SuiteSparse 5.7.1, building with SuiteSparse.
+-- Found CXSparse version: 3.2.0, building with CXSparse.
+-- Found Google Flags header in: /home/unitree/unitree/Odometer_service/devel/include, in namespace: google
+-- Found Google Log (glog). Assuming glog was built with gflags support as gflags was found. This will make gflags a public dependency of Ceres.
+-- Building with OpenMP.
+-- Found unordered_map/set in std namespace.
+-- Found shared_ptr in std namespace using <memory> header.
+-- Building Ceres as a shared library.
+-- Do not build any example.
+make[3]: warning: -j8 forced in submake: resetting jobserver mode.
+make[3]: warning: -j8 forced in submake: resetting jobserver mode.

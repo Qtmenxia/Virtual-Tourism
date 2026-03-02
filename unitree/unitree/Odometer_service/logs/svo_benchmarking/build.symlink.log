@@ -1,0 +1,5 @@
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/python3/dist-packages/svo_benchmarking/__init__.py
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_benchmarking/cmake.lock, /home/unitree/unitree/unitree_vo/devel/./cmake.lock)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_benchmarking/lib/python3/dist-packages/svo_benchmarking/__init__.py, /home/unitree/unitree/unitree_vo/devel/lib/python3/dist-packages/svo_benchmarking/__init__.py)
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/python3/dist-packages/svo_benchmarking/__init__.py
+Already unlinked: {}

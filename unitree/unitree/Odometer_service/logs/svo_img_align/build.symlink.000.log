@@ -1,0 +1,17 @@
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/libsvo_img_align.so
+Symlinking /home/unitree/unitree/Odometer_service/devel/lib/pkgconfig/svo_img_align.pc
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/svo_img_align/cmake/svo_img_alignConfig.cmake
+Symlinking /home/unitree/unitree/Odometer_service/devel/share/svo_img_align/cmake/svo_img_alignConfig-version.cmake
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_img_align/cmake.lock, /home/unitree/unitree/unitree_vo/devel/./cmake.lock)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_img_align/lib/libsvo_img_align.so, /home/unitree/unitree/unitree_vo/devel/lib/libsvo_img_align.so)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_img_align/lib/pkgconfig/svo_img_align.pc, /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/svo_img_align.pc)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_img_align/share/svo_img_align/cmake/svo_img_alignConfig.cmake, /home/unitree/unitree/unitree_vo/devel/share/svo_img_align/cmake/svo_img_alignConfig.cmake)
+Cleaning: (/home/unitree/unitree/unitree_vo/devel/.private/svo_img_align/share/svo_img_align/cmake/svo_img_alignConfig-version.cmake, /home/unitree/unitree/unitree_vo/devel/share/svo_img_align/cmake/svo_img_alignConfig-version.cmake)
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/libsvo_img_align.so
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/lib/pkgconfig/svo_img_align.pc
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/svo_img_align/cmake/svo_img_alignConfig.cmake
+Already unlinked: {}
+Unlinking: /home/unitree/unitree/unitree_vo/devel/share/svo_img_align/cmake/svo_img_alignConfig-version.cmake
+Already unlinked: {}

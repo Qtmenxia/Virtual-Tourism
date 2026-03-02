@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "D:/Virtual-Tourism/unitree/unitree_sdk2",
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "python-envs.pythonProjects": []
+}
